@@ -1,6 +1,6 @@
 # store_sales_forecasting
 
-Forecasted future sales in multiple Walmart stores.
+📈 Forecasted future sales in multiple Walmart stores.
 
 
 ## Project info
